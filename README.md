@@ -13,9 +13,9 @@ A web-based application for generating images from text prompts using powerful m
 
 🌈 Custom styled UI:
 
-Gradient background
+* Gradient background
 
-Styled sliders and radio buttons
+* Styled sliders and radio buttons
 
-Themed "Generate Image" button
+* Themed "Generate Image" button
 
