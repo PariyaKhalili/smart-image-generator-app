@@ -2,6 +2,9 @@
 🎨 Smart AI Image Generator
 A web-based application for generating images from text prompts using powerful models like Stable Diffusion 1.5 (SD1.5) and Stable Diffusion XL (SDXL), with a custom UI built using Gradio.
 
+![Alt Text](https://raw.githubusercontent.com/your-username/repo-name/main/assets/my_image.png)
+
+
 ✨ Features
 1. Choose models between SD1.5 and SDXL
 
