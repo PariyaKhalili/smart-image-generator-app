@@ -20,5 +20,6 @@ A web-based application for generating images from text prompts using powerful m
 * Themed "Generate Image" button
 
 ## 🎥 Demo
-[Click here to watch the demo](assets/demo.mp4)
+Click here to watch the demo:
+[Demo](assets/demo.mp4)
 
