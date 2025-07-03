@@ -3,19 +3,22 @@
 A web-based application for generating images from text prompts using powerful models like Stable Diffusion 1.5 (SD1.5) and Stable Diffusion XL (SDXL), with a custom UI built using Gradio.
 
 ✨ Features
-🔮 Choose models between SD1.5 and SDXL
+1. Choose models between SD1.5 and SDXL
 
-🖌️ Customize image width, height, and CFG (guidance scale)
+2. Customize image width, height, and CFG (guidance scale)
 
-💡 Use one-click example prompts
+3. Use one-click example prompts
 
-⚠️ Error handeling with an empty prompt
+4. Error handeling with an empty prompt
 
-🌈 Custom styled UI:
+5.  Custom styled UI:
 
 * Gradient background
 
 * Styled sliders and radio buttons
 
 * Themed "Generate Image" button
+
+## 🎥 Demo
+[Click here to watch the demo](assets/demo.mp4)
 
